@@ -3,8 +3,9 @@
 <p>To ImplementA * Search algorithm for a Graph using Python 3.</p>
 <H2>Algorithm:</H2>
 
-``````
-// A* Search Algorithm
+```
+A* Search Algorithm->
+
 1.  Initialize the open list
 2.  Initialize the closed list
     put the starting node on the open 
@@ -46,8 +47,7 @@
     e) push q on the closed list
     end (while loop)
 
-``````
-
+```
 <hr>
 <h2>Sample Graph I</h2>
 <hr>
