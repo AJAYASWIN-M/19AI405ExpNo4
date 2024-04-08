@@ -1,7 +1,7 @@
 <h1>ExpNo 4 : Implement A* search algorithm for a Graph-></h1> 
 
-### Name : Pradeep Raj P</h3>
-### Reg No : 212222240073
+### Name : Ajay Aswin M</h3>
+### Reg No : 212222240005
 <H2>Aim:</H2>
 <p>To Implement A* Search algorithm for a Graph using Python 3.</p>
 <H2>Algorithm :</H2>
